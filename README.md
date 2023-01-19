@@ -1,0 +1,1 @@
+repro of @html bug in svelte-kit
