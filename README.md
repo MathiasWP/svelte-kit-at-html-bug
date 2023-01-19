@@ -1,1 +1,1 @@
-repro of @html bug in svelte-kit
+see https://github.com/sveltejs/kit/issues/8612 for more info
