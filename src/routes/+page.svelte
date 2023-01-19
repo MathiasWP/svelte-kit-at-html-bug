@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
     import { browser } from "$app/environment";
 
     let greeting = "You should not see me after hydration...";
